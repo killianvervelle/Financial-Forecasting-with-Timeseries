@@ -1,2 +1,1 @@
-# AnSeqDa_projet_Finance
-Projet Finance Nestlé
+Projet AnSeqDa : prédiction de l'action boursière Nestlé
