@@ -1,0 +1,11 @@
+pandas
+seaborn
+numpy
+io
+datetime
+tensorflow
+random
+statsmodels
+sklearn
+matplotlib
+xlrd
