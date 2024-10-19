@@ -1,4 +1,8 @@
-### Project description
+# Financial-Forecasting-with-Timeseries
+
+**Team Members :** Antony Carrard, Killian Vervelle
+
+## Project: Financial-Forecasting-with-Timeseries
 
 In this project, we aimed to leverage a combination of time series forecasting techniques and machine learning models to predict the stock price variations of Apple, and ultimately implement a trading bot capable of generating a return on investments. As stock market prices exhibit a random walk (Fama, 1995), predicting both the magnitude and directional changes of stock prices remains one of the most challenging tasks in financial forecasting (Meher et al., 2021). Accurate predictions are crucial for investors as they enable informed decisions for future investments. Therefore, the goal of this study is to create a reliable forecasting model that investors can confidently rely on to optimize their investment strategies.
 
