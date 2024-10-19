@@ -33,13 +33,13 @@ Futur improvements could include risk management strategies to minimize potentia
 
 ### ARIMA results with Training Bot
 <p align="center">
-    <img src="./assets/botARIMA.png" alt="Bot ARIMA" width="400" />
+    <img src="./assets/botARIMA.png" alt="Bot ARIMA" width="600" />
 </p>
 The ARIMA-driven trading bot performed reasonably well for longer-term trend following but was less effective for short-term trading due to its slower reaction to rapid market movements.
 
 ### LSTM results with Training Bot
 <p align="center">
-    <img src="./assets/botLSTM.png" alt="Bot ARIMA" width="400" />
+    <img src="./assets/botLSTM.png" alt="Bot ARIMA" width="600" />
 </p>
 The LSTM-driven trading bot delivered consistent returns by effectively capitalizing on short-term price movements, outperforming traditional buy-and-hold strategies and the ARIMA-based bot.
 
